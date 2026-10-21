@@ -3,7 +3,7 @@ import android.app.Activity
 import android.app.admin.DevicePolicyManager
 import android.content.ComponentName
 import android.content.Intent
-import android.graphics.Gravity
+import android.view.Gravity
 import android.os.Bundle
 import android.widget.*
 
